@@ -1,3 +1,3 @@
 # hello-world
 Harika Bhogaraju
-CSE 360 - Hello World
+ASU CSE 360 Assignment 1 - Hello World
